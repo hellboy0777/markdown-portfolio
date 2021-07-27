@@ -1,3 +1,3 @@
-eat
-drink
-sleep
+*eat
+*drink
+*sleep
